@@ -38,7 +38,7 @@ class Tester {
         list.add(99);
         System.out.println(list);
 
-        System.out.println("Dumb list example: s");
+        System.out.println("Dumb list example: ");
         List mylist = new List();
 
         mylist.add(1);
